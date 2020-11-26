@@ -1,0 +1,10 @@
+[{"iditem":"1", "itemname":"Palo", "power":"1", "rarity":"Básico", "imageindex":"1"}
+,{"iditem":"2", "itemname":"Sierra", "power":"100", "rarity":"Normal", "imageindex":"2"}
+,{"iditem":"3", "itemname":"Hacha", "power":"80", "rarity":"Normal", "imageindex":"3"}
+,{"iditem":"4", "itemname":"Espada", "power":"90", "rarity":"Raro", "imageindex":"2"}
+,{"iditem":"5", "itemname":"Lanza", "power":"75", "rarity":"Normal", "imageindex":"1"}
+,{"iditem":"6", "itemname":"Arco", "power":"60", "rarity":"Raro", "imageindex":"3"}
+,{"iditem":"7", "itemname":"Guantelete", "power":"80", "rarity":"Normal", "imageindex":"1"}
+,{"iditem":"8", "itemname":"Tridente", "power":"120", "rarity":"UltraRaro", "imageindex":"2"}
+,{"iditem":"9", "itemname":"Mazo", "power":"150", "rarity":"Normal", "imageindex":"3"}
+,{"iditem":"10", "itemname":"Dagas", "power":"70", "rarity":"Raro", "imageindex":"1"}]
